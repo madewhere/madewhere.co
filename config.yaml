@@ -1,0 +1,10 @@
+baseURL: 'https://products.fardog.io/'
+languageCode: 'en-us'
+title: 'Products'
+theme: ananke
+
+taxonomies:
+  category: categories
+  tag: tags
+  origin: origin
+  nationality: nationality
