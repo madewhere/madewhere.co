@@ -17,7 +17,7 @@ parent: zwilling
 
 links:
   - url: https://www.zwilling.com/us/demeyere/
-    label: Demeyere
+    text: Demeyere
 ---
 
 Demeyere offers a wide range of made in belgium cookware.

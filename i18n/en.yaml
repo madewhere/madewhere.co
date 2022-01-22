@@ -22,6 +22,9 @@ parent-description:
 links:
   other: external links
 
+vendors:
+  other: vendors
+
 # taxonomies; origin and nationality
 usa:
   other: USA
@@ -37,3 +40,5 @@ australia:
   other: Australia
 japan:
   other: Japan
+belgium:
+  other: Belgium

@@ -22,14 +22,30 @@
   </ul>
 
   {{ if .Params.parent }}
-  {{ $parent := .Params.parent }}
+  {{ with $.GetPage .Params.parent }}
   <p class="f5 b mb3 ttc">{{ i18n "parent" }}</p>
   <ul class="pa0 list">
       <li  class="mb2">
-        <a href="{{ "/brand/" | relLangURL }}{{ $parent | urlize }}">
-          <span class="ttc">{{- $parent -}}</span>
+        <a href="{{ .RelPermalink }}">
+          <span class="ttc">{{- .Title -}}</span>
         </a>
       </li>
+  </ul>
+  {{ end }}
+  {{ end }}
+
+  {{ if .Params.vendors }}
+  <p class="f5 b mb3 ttc">{{ i18n "vendors" }}</p>
+  <ul class="pa0 list">
+    {{ range .Params.vendors }}
+    {{ with $.GetPage (print "/vendors/" .) }}
+      <li  class="mb2">
+        <a href="{{ .RelPermalink }}">
+          <span class="ttc">{{- .Title -}}</span>
+        </a>
+      </li>
+    {{ end }}
+    {{ end }}
   </ul>
   {{ end }}
 
