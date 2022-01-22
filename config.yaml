@@ -4,7 +4,12 @@ title: 'Products'
 theme: ananke
 
 taxonomies:
-  category: categories
+  categories: categories
   tag: tags
   origin: origin
   nationality: nationality
+
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 50
+enableRobotsTXT: true

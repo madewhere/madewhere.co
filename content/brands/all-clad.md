@@ -1,9 +1,10 @@
 ---
 title: All-Clad
 date: 2022-01-20
-type: brand
 
-category:
+stub: true
+
+categories:
   - kitchen
 origin:
   - usa
@@ -14,7 +15,9 @@ tags:
   - mixed-origin
   - independent
 
-externalUrl: https://www.all-clad.com/
+links:
+  - url: https://www.all-clad.com/
+    text: All-Clad
 ---
 
 All-Clad is known for their clad cookware, but the also offer utensils and

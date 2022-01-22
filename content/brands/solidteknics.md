@@ -1,9 +1,10 @@
 ---
 title: Solidteknics
 date: 2022-01-20
-type: brand
 
-category:
+stub: true
+
+categories:
   - kitchen
 origin:
   - usa
@@ -14,7 +15,9 @@ nationality:
 tags:
   - independent
 
-externalUrl: https://solidteknicsusa.com/ 
+links:
+  - url: https://solidteknicsusa.com/ 
+    text: Solidteknics USA
 ---
 
 Solidteknics is a manufacturer with seemingly two independent arms: one in

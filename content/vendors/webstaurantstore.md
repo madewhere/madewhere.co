@@ -1,10 +1,20 @@
 ---
 title: WebstaurantStore
 date: 2022-01-20
-type: vendors
+type: vendor
 
-category:
+stub: true
+
+categories:
   - kitchen
 
-externalUrl: https://www.webstaurantstore.com/
+links:
+  - url: https://www.webstaurantstore.com/
+    text: WebstaurantStore
 ---
+
+WebstaurantStore is a large online retailer specializing in the food service
+industry, but they will sell to the general public.
+
+They are USA focused, and will prominently display badges on USA-made goods, as
+well as allowing that as a search constraint.

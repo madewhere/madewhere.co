@@ -1,9 +1,10 @@
 ---
 title: Duralex
 date: 2022-01-20
-type: brand
 
-category:
+stub: true
+
+categories:
   - kitchen
 origin:
   - france
@@ -13,7 +14,9 @@ tags:
 
 parent: pyrex
 
-externalUrl: https://www.duralexusa.com/
+links:
+  - url: https://www.duralexusa.com/
+    text: Duralex USA
 ---
 
 Duralex is a manufacturer of glassware; they specialize in drinkware and

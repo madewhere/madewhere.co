@@ -1,9 +1,10 @@
 ---
 title: Thermoworks
 date: 2022-01-20
-type: brand
 
-category:
+stub: true
+
+categories:
   - kitchen
 origin:
   - england
@@ -14,7 +15,9 @@ tags:
   - mixed-origin
   - independent
 
-externalUrl: https://www.thermoworks.com/
+links:
+  - url: https://www.thermoworks.com/
+    text: Thermoworks
 ---
 
 Thermoworks primary product is handheld fast-read digital thermometers for

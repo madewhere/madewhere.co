@@ -20,8 +20,9 @@ This site is meant as a database to locate these goods and discover their
 pitfalls; just because some products from a particular brand fill these
 requirements it does not mean _all_ do, and companies change their practices all
 the time. Nor are any of the above bullets particularly well defined—and
-certainly their definitions can be debated—but hopefully the contents provide a
-reasonable starting point for you to make your own decisions on these matters.
+certainly their definitions and merits can be debated—but hopefully the contents
+provide a reasonable starting point for you to make your own decisions on these
+matters.
 
 This sites contributions come from volunteers, and anyone may contribute to this
 site by following the [Contribution Guide][].

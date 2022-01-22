@@ -1,9 +1,10 @@
 ---
 title: 360 Cookware
 date: 2022-01-20
-type: brand
 
-category:
+stub: true
+
+categories:
   - kitchen
 origin:
   - usa
@@ -12,7 +13,9 @@ nationality:
 tags:
   - independent
 
-externalUrl: https://www.360cookware.com/
+links:
+  - url: https://www.360cookware.com/
+    text: 360 Cookware
 ---
 
 360 Cookware makes various cookware, bakeware, flatware, and other utensils in

@@ -1,0 +1,39 @@
+categories:
+  other: categories
+
+origin:
+  other: origin
+
+origin-description:
+  other: The countries where goods are manufactured.
+
+nationality:
+  other: nationality
+
+nationality-description:
+  other: The countries where the brand is managed.
+
+parent:
+  other: parent
+
+parent-description:
+  other: The parent company, if any.
+
+links:
+  other: external links
+
+# taxonomies; origin and nationality
+usa:
+  other: USA
+canada:
+  other: Canada
+germany:
+  other: Germany
+france:
+  other: France
+china:
+  other: China
+australia:
+  other: Australia
+japan:
+  other: Japan

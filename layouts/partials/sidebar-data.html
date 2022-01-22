@@ -1,0 +1,46 @@
+<div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  <p class="f5 b mb3 ttc">{{ i18n "origin" }}</p>
+  <ul class="pa0 list">
+    {{ range .Params.origin }}
+      <li class="mb2">
+        <a href="{{ "/origin/" | relLangURL }}{{ . | urlize }}">
+          <span class="ttc">{{ i18n . }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+
+  <p class="f5 b mb3 ttc">{{ i18n "nationality" }}</p>
+  <ul class="pa0 list">
+    {{ range .Params.nationality }}
+      <li  class="mb2">
+        <a href="{{ "/nationality/" | relLangURL }}{{ . | urlize }}">
+          <span class="ttc">{{ i18n . }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+
+  {{ if .Params.parent }}
+  {{ $parent := .Params.parent }}
+  <p class="f5 b mb3 ttc">{{ i18n "parent" }}</p>
+  <ul class="pa0 list">
+      <li  class="mb2">
+        <a href="{{ "/brand/" | relLangURL }}{{ $parent | urlize }}">
+          <span class="ttc">{{- $parent -}}</span>
+        </a>
+      </li>
+  </ul>
+  {{ end }}
+
+  <p class="f5 b mb3 ttc">{{ i18n "links" }}</p>
+  <ul class="pa0 list">
+    {{ range .Params.links }}
+      <li  class="mb2">
+        <a href="{{ .url }}" target="_blank">
+          <span class="ttc">{{- .text -}}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</div>

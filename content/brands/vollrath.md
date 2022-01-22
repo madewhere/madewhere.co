@@ -1,9 +1,10 @@
 ---
 title: Vollrath
 date: 2022-01-20
-type: brand
 
-category:
+stub: true
+
+categories:
   - kitchen
 origin:
   - usa
@@ -17,7 +18,9 @@ tags:
 vendors:
   - webstaurantstore
 
-externalUrl: https://www.vollrathfoodservice.com/
+links:
+  - url: https://www.vollrathfoodservice.com/
+    text: Vollrath Food Service
 ---
 
 Vollrath is a cookware and bakeware company, focused on commercial kitchen. A

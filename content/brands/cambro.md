@@ -1,9 +1,10 @@
 ---
 title: Cambro
 date: 2022-01-20
-type: brand
 
-category:
+stub: true
+
+categories:
   - kitchen
 origin:
   - usa
@@ -15,7 +16,9 @@ tags:
 vendors:
   - webstaurantstore
 
-externalUrl: https://www.cambro.com/
+links:
+  - url: https://www.cambro.com/
+    text: Cambro
 ---
 
 Cambro is best known for their [food storage][] products, which are popular in
