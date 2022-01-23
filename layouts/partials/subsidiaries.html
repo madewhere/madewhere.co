@@ -1,8 +1,8 @@
-{{ $related := .Site.RegularPages.RelatedTo ( keyVals "parent" .Page.Name) }}
+{{ $related := .Site.RegularPages.RelatedTo ( keyVals "parent" .Page.File.ContentBaseName) }}
 {{ if $related }}
   <p class="f3 b mb1 ttc">Subsidiaries</p>
   <ul class="pa0 mt0 list">
-  {{ range $related }}
+  {{ range sort $related "Name" }}
     <li  class="mb2">
       <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
     </li>

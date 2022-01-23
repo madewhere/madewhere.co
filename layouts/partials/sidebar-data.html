@@ -10,16 +10,17 @@
     {{ end }}
   </ul>
 
-  {{ if (isset .Params.parent "url") }}
-    {{/* Parent was a key-value object, not a link to another page */}}
+  {{ if .Params.parentLink }}
+    {{with $.GetPage .Params.parentLink }}
     <p class="f5 b mb1 ttc">{{ i18n "parent" }}</p>
     <ul class="pa0 mt0 list">
         <li  class="mb2">
-          <a href="{{ .Params.parent.url }}" target="_blank">
-            <span class="ttc">{{- .Params.parent.text -}}</span>
+          <a href="{{ .url }}" target="_blank">
+            <span class="ttc">{{- .text -}}</span>
           </a>
         </li>
     </ul>
+    {{ end }}
   {{ else if .Params.parent }}
     {{ with $.GetPage .Params.parent }}
     <p class="f5 b mb1 ttc">{{ i18n "parent" }}</p>

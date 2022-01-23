@@ -11,6 +11,7 @@ origins:
   - usa
   - unknown
 tags:
+  - mixed-origin
 
 links:
   - url: https://www.pyrexhome.com/

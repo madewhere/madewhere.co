@@ -12,13 +12,10 @@ origins:
 tags:
 
 links:
-  - url: https://brand.example/
+  - url: https://www.sherrillmfg.com/
     text: "Sherrill Manufacturing"
 ---
 
-Sherrill Manufacturing is the parent company of [360 Cookware] and [Liberty
-Tabletop]. They purchased the former Oneida Limited facilities, and continue
-making products in the USA.
-
-[360 cookware]: {{< ref "360-cookware" >}}
-[liberty tabletop]: {{< ref "liberty-tabletop" >}}
+Sherrill Manufacturing is the parent company of several brands listed below.
+They purchased the former Oneida Limited facilities, and continue making
+products in the USA.
