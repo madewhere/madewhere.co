@@ -9,6 +9,14 @@ taxonomies:
   tag: tags
   origin: origins
 
+related:
+  includeNewer: true
+  indices:
+  - name: parent
+    weight: 100
+  threshold: 80
+  toLower: true
+
 params:
   repository:
     url: https://github.com/fardog/products

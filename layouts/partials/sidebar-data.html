@@ -10,17 +10,27 @@
     {{ end }}
   </ul>
 
-  {{ if .Params.parent }}
-  {{ with $.GetPage .Params.parent }}
-  <p class="f5 b mb3 ttc">{{ i18n "parent" }}</p>
-  <ul class="pa0 list">
-      <li  class="mb2">
-        <a href="{{ .RelPermalink }}">
-          <span class="ttc">{{- .Title -}}</span>
-        </a>
-      </li>
-  </ul>
-  {{ end }}
+  {{ if (isset .Params.parent "name") }}
+    {{/* Parent was a key-value object, not a link to another page */}}
+    <p class="f5 b mb3 ttc">{{ i18n "parent" }}</p>
+    <ul class="pa0 list">
+        <li  class="mb2">
+          <a href="{{ .Params.parent.url }}" target="_blank">
+            <span class="ttc">{{- .Params.parent.name -}}</span>
+          </a>
+        </li>
+    </ul>
+  {{ else if .Params.parent }}
+    {{ with $.GetPage .Params.parent }}
+    <p class="f5 b mb3 ttc">{{ i18n "parent" }}</p>
+    <ul class="pa0 list">
+        <li  class="mb2">
+          <a href="{{ .RelPermalink }}">
+            <span class="ttc">{{- .Title -}}</span>
+          </a>
+        </li>
+    </ul>
+    {{ end }}
   {{ end }}
 
   {{ if .Params.vendors }}
