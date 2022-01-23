@@ -9,7 +9,7 @@ categories:
 origins:
   - usa
 tags:
-  - independent
+parent: sherrill-manufacturing
 
 links:
   - url: https://www.360cookware.com/
