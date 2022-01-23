@@ -24,7 +24,25 @@ certainly their definitions and merits can be debated—but hopefully the conten
 provide a reasonable starting point for you to make your own decisions on these
 matters.
 
+You can read more details in our [FAQ].
+
+[FAQ]: {{<ref "/faq" >}}
+
 This site's contributions come from volunteers, and anyone may contribute to
-this site by following the [Contribution Guide][].
+this site by following the [Contribution Guide].
 
 [Contribution Guide]: {{< ref "/contribute" >}}
+
+### Acknowledgements
+
+This site is built using some great [Open Source software][oss], and we greatly
+appreciate the contributors that make it possible:
+
+* [Hugo](https://gohugo.io)
+* [Ananke Theme](https://github.com/theNewDynamic/gohugo-theme-ananke)
+
+This site is built with [GitHub Actions], and hosted via [GitHub Pages].
+
+[oss]: https://en.wikipedia.org/wiki/Open-source_software
+[Github Actions]: https://github.com/features/actions
+[GitHub Pages]: https://pages.github.com/

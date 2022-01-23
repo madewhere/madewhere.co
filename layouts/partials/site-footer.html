@@ -9,5 +9,13 @@
     Code: <a class="white-70 hover-white" href="{{ .url }}" target="_blank">{{ .text }}</a>, unless otherwise noted.
     {{ end }}
   </div>
+  <div class="justify-between f6 fw6 white-70 ph3">
+    View the
+    {{ with .Site.Params.repository }}
+    <a class="white-70 hover-white" href="{{ .url }}" target="_blank">source</a>
+    {{ end }}
+    for this site.
+    <a class="white-70 hover-white" href="{{ref . "privacy"}}" target="_blank">Privacy</a>.
+  </div>
   <div>{{ partial "social-follow.html" . }}</div>
 </footer>
