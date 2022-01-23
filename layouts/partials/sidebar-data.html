@@ -1,6 +1,6 @@
 <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-  <p class="f5 b mb3 ttc">{{ i18n "origins" }}</p>
-  <ul class="pa0 list">
+  <p class="f5 b mb1 ttc">{{ i18n "origins" }}</p>
+  <ul class="pa0 mt0 list">
     {{ range .Params.origins }}
       <li class="mb2">
         <a href="{{ "/origins/" | relLangURL }}{{ . | urlize }}">
@@ -10,20 +10,20 @@
     {{ end }}
   </ul>
 
-  {{ if (isset .Params.parent "name") }}
+  {{ if (isset .Params.parent "url") }}
     {{/* Parent was a key-value object, not a link to another page */}}
-    <p class="f5 b mb3 ttc">{{ i18n "parent" }}</p>
-    <ul class="pa0 list">
+    <p class="f5 b mb1 ttc">{{ i18n "parent" }}</p>
+    <ul class="pa0 mt0 list">
         <li  class="mb2">
           <a href="{{ .Params.parent.url }}" target="_blank">
-            <span class="ttc">{{- .Params.parent.name -}}</span>
+            <span class="ttc">{{- .Params.parent.text -}}</span>
           </a>
         </li>
     </ul>
   {{ else if .Params.parent }}
     {{ with $.GetPage .Params.parent }}
-    <p class="f5 b mb3 ttc">{{ i18n "parent" }}</p>
-    <ul class="pa0 list">
+    <p class="f5 b mb1 ttc">{{ i18n "parent" }}</p>
+    <ul class="pa0 mt0 list">
         <li  class="mb2">
           <a href="{{ .RelPermalink }}">
             <span class="ttc">{{- .Title -}}</span>
@@ -34,8 +34,8 @@
   {{ end }}
 
   {{ if .Params.vendors }}
-  <p class="f5 b mb3 ttc">{{ i18n "vendors" }}</p>
-  <ul class="pa0 list">
+  <p class="f5 b mb1 ttc">{{ i18n "vendors" }}</p>
+  <ul class="pa0 mt0 list">
     {{ range .Params.vendors }}
     {{ with $.GetPage (print "/vendors/" .) }}
       <li  class="mb2">
@@ -48,8 +48,8 @@
   </ul>
   {{ end }}
 
-  <p class="f5 b mb3 ttc">{{ i18n "links" }}</p>
-  <ul class="pa0 list">
+  <p class="f5 b mb1 ttc">{{ i18n "links" }}</p>
+  <ul class="pa0 mt0 list">
     {{ range .Params.links }}
       <li  class="mb2">
         <a href="{{ .url }}" target="_blank">
