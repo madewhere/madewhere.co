@@ -1,10 +1,10 @@
 categories:
   other: categories
 
-origin:
-  other: origin
+origins:
+  other: origins
 
-origin-description:
+origins-description:
   other: The countries where goods are manufactured.
 
 parent:

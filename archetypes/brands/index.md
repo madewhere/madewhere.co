@@ -7,7 +7,7 @@ stub: true
 draft: true
 
 categories:
-origin:
+origins:
 tags:
 parent:
 vendors:

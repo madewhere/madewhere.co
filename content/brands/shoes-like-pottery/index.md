@@ -7,7 +7,7 @@ stub: true
 categories:
   - clothing
   - shoes
-origin:
+origins:
   - japan
 tags:
 parent: moonstar

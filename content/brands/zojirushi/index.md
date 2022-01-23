@@ -6,7 +6,7 @@ stub: true
 
 categories:
   - kitchen
-origin:
+origins:
   - japan
   - unknown
 tags:

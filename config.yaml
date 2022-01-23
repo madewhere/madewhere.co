@@ -5,9 +5,9 @@ theme: ananke
 copyright: Product Contributors 
 
 taxonomies:
-  categories: categories
+  category: categories
   tag: tags
-  origin: origin
+  origin: origins
 
 params:
   repository:

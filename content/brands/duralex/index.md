@@ -6,7 +6,7 @@ stub: true
 
 categories:
   - kitchen
-origin:
+origins:
   - france
 tags:
 
