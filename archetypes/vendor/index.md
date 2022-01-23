@@ -7,13 +7,10 @@ stub: true
 draft: true
 
 categories:
-origin:
 tags:
-parent:
-vendors:
 
 links:
-  - url: https://brand.example/
+  - url: https://vendor.example/
     text: "{{ replace .Name "-" " " | title }}"
 ---
 
