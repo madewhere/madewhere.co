@@ -8,8 +8,6 @@ categories:
   - kitchen
 origin:
   - usa
-nationality:
-  - usa
 tags:
   - mixed-origin
   - commercial

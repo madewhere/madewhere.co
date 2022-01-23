@@ -9,8 +9,6 @@ categories:
 origin:
   - usa
   - china
-nationality:
-  - usa
 tags:
   - mixed-origin
   - commercial

@@ -6,7 +6,7 @@ stub: true
 
 categories:
   - kitchen
-nationality:
+origin:
   - germany
 tags:
   - mixed-origin

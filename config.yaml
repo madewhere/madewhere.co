@@ -2,12 +2,26 @@ baseURL: 'https://products.fardog.io/'
 languageCode: 'en-us'
 title: 'Products'
 theme: ananke
+copyright: Product Contributors 
 
 taxonomies:
   categories: categories
   tag: tags
   origin: origin
-  nationality: nationality
+
+params:
+  repository:
+    url: https://github.com/fardog/products
+  contributing:
+    url: https://github.com/fardog/products/blob/main/CONTRIBUTING.md
+  contentLicense:
+    text: CC BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+  codeLicense:
+    text: MIT
+    url: https://github.com/fardog/products/blob/main/LICENSE
+  codeOfConduct:
+    url: https://github.com/fardog/products/blob/main/CODE_OF_CONDUCT.md
 
 DefaultContentLanguage: en
 SectionPagesMenu: main

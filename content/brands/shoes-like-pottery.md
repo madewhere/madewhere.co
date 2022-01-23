@@ -9,8 +9,6 @@ categories:
   - shoes
 origin:
   - japan
-nationality:
-  - japan
 tags:
 parent: moonstar
 vendors:

@@ -9,8 +9,6 @@ categories:
 origin:
   - japan
   - unknown
-nationality:
-  - japan
 tags:
   - mixed-origin
   - independent

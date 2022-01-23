@@ -9,8 +9,6 @@ categories:
 origin:
   - germany
   - unknown
-nationality:
-  - germany
 tags:
   - mixed-origin
   - independent

@@ -8,9 +8,6 @@ categories:
   - kitchen
 origin:
   - france
-nationality:
-  - france
-  - germany
 tags:
   - mixed origin
 parent: zwilling

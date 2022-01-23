@@ -9,9 +9,6 @@ categories:
 origin:
   - usa
   - australia
-nationality:
-  - usa
-  - australia
 tags:
   - independent
 

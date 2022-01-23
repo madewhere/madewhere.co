@@ -10,17 +10,6 @@
     {{ end }}
   </ul>
 
-  <p class="f5 b mb3 ttc">{{ i18n "nationality" }}</p>
-  <ul class="pa0 list">
-    {{ range .Params.nationality }}
-      <li  class="mb2">
-        <a href="{{ "/nationality/" | relLangURL }}{{ . | urlize }}">
-          <span class="ttc">{{ i18n . }}</span>
-        </a>
-      </li>
-    {{ end }}
-  </ul>
-
   {{ if .Params.parent }}
   {{ with $.GetPage .Params.parent }}
   <p class="f5 b mb3 ttc">{{ i18n "parent" }}</p>

@@ -1,0 +1,13 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between f4 fw4 white-70 dn dib-ns pv2 ph3">
+    &copy; {{ now.Format "2006"}} {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ end }}
+    —
+    {{ with .Site.Params.contentLicense }}
+    Content: <a class="white-70 hover-white" href="{{ .url }}" target="_blank">{{ .text }}</a>,
+    {{ end }}
+    {{ with .Site.Params.codeLicense }}
+    Code: <a class="white-70 hover-white" href="{{ .url }}" target="_blank">{{ .text }}</a>, unless otherwise noted.
+    {{ end }}
+  </div>
+  <div>{{ partial "social-follow.html" . }}</div>
+</footer>

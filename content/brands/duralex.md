@@ -8,8 +8,6 @@ categories:
   - kitchen
 origin:
   - france
-nationality:
-  - france
 tags:
 
 parent: pyrex

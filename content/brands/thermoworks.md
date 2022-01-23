@@ -9,8 +9,6 @@ categories:
 origin:
   - england
   - china
-nationality:
-  - england
 tags:
   - mixed-origin
   - independent
