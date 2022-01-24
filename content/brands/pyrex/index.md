@@ -21,3 +21,9 @@ links:
 Pyrex is the parent company of a large number of brands, and manufactures its
 own products, a limited set of which (such as its measuring cups) are still
 made in the USA.
+
+{{< admonishment >}}
+Generally, Pyrex would _not_ be considered for this listing given how few of its
+products would qualify, but as the parent to a number of brands that _do_
+qualify we maintain this page.
+{{< /admonishment >}}
