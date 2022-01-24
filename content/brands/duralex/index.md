@@ -10,7 +10,9 @@ origins:
   - france
 tags:
 
-parent: pyrex
+parentLink:
+  url: https://www.pyrexhome.com/
+  text: Pyrex
 
 links:
   - url: https://www.duralexusa.com/
