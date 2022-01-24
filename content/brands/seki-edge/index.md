@@ -11,8 +11,8 @@ origins:
   - japan
 tags:
 parentLink:
-  url: https://www.jatai.net/about/#Seki-Edge
-  text: Jatai
+  url: https://www.greenbell.ne.jp/en/index.html
+  text: Green Bell
 
 links:
   - url: https://www.jatai.net/seki-edge/
