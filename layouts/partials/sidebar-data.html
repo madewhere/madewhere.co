@@ -2,11 +2,13 @@
   <p class="f5 b mb1 ttc">{{ i18n "origins" }}</p>
   <ul class="pa0 mt0 list">
     {{ range .Params.origins }}
+      {{ with $.GetPage ( print "/origins/" .) }}
       <li class="mb2">
-        <a href="{{ "/origins/" | relLangURL }}{{ . | urlize }}">
-          <span class="ttc">{{ i18n . }}</span>
+        <a href="{{ .RelPermalink }}">
+          <span class="ttc">{{- .Title -}}</span>
         </a>
       </li>
+      {{ end }}
     {{ end }}
   </ul>
 

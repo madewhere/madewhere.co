@@ -1,6 +1,4 @@
 ---
 title: Tags
+description: Catch-all taxonomy for listing various features about a brand. 
 ---
-
-Tags are a catch-all taxonomy for listing various features about a product.
-Browse the below tags to learn more about each one.

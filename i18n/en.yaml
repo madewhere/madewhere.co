@@ -18,25 +18,3 @@ links:
 
 vendors:
   other: vendors
-
-# taxonomies; origin
-usa:
-  other: USA
-canada:
-  other: Canada
-germany:
-  other: Germany
-france:
-  other: France
-china:
-  other: China
-australia:
-  other: Australia
-japan:
-  other: Japan
-belgium:
-  other: Belgium
-netherlands:
-  other: Netherlands
-unknown:
-  unknown: Unknown

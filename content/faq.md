@@ -52,11 +52,10 @@ Generally though, I think this provides a reasonable set of guidelines:
   fit our criteria easily. However this site is focused on items you can buy
   today. Buying used is awesome and you should do it, but it's just not the
   focus of this site.
-* _Major appliances:_ This is a difficult one but we feel like it's too much of
-  a moving target.
 * _Niche products:_ This is hand-wavey but a representative category might be
   "wood burning stoves". Many of those are made right in the country where you
-  live, but I don't imagine it brings much value to list those here.
+  live, but I don't imagine it brings much value to list those here. Case by
+  case basis maybe.
 
 ### Is this site USA-centric?
 
@@ -103,6 +102,11 @@ We aren't here to list things that are "cheap", by any stretch. Some of them
 could be quite expensive even. But the goal is for these items to be _worth_ the
 cost, because they work well and last for you, and the people that made them
 were taken care of.
+
+### What does "fairly made" mean?
+
+The answer to this is the previous two combined. We hope that our money goes to
+benefit everyone that worked on making it a reality.
 
 ### How do you know these brands treat people fairly?
 

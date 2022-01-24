@@ -1,5 +1,4 @@
 ---
 title: Origin
+description: The country in which a product is manufactured.
 ---
-
-"Origin" denotes the country in which a product is manufactured.
