@@ -13,5 +13,3 @@ links:
   - url: https://vendor.example/
     text: "{{ replace .Name "-" " " | title }}"
 ---
-
-**Insert content here.**

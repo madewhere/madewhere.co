@@ -21,5 +21,3 @@ links:
   - url: https://brand.example/
     text: "{{ replace .Name "-" " " | title }}"
 ---
-
-**Insert content here.**
