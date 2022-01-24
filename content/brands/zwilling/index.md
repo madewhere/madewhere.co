@@ -17,7 +17,7 @@ links:
 ---
 
 ZWILLING J.A. Henckles is the parent company of several brands, including
-[Staub][] and [Demeyere][].
+[Staub] and [Demeyere].
 
 [demeyere]: {{< ref "demeyere" >}}
 [staub]: {{< ref "staub" >}}

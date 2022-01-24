@@ -27,7 +27,7 @@ Pride" line of clad cookware which is relatively inexpensive vs other clad
 lines.
 
 While Vollrath doesn't sell directly to consumers, their goods are carried by
-[WebstaurantStore][] which lists a prominent "Made in USA" badge on relevant
+[WebstaurantStore] which lists a prominent "Made in USA" badge on relevant
 products.
 
 [webstaurantstore]: {{< ref "/vendors/webstaurantstore" >}}

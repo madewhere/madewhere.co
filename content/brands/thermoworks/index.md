@@ -19,7 +19,7 @@ links:
 ---
 
 Thermoworks primary product is handheld fast-read digital thermometers for
-cooking use. Their flagship [Thermapen][] line is made in England.
+cooking use. Their flagship [Thermapen] line is made in England.
 
 Products which are made in England are explicitly market on product pages.
 

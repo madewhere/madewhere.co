@@ -20,6 +20,6 @@ links:
 ---
 
 Shoes Like Pottery makes casual low and high top sneakers. As with all
-[MoonStar][] sneakers, they are made in Japan.
+[MoonStar] sneakers, they are made in Japan.
 
 [moonstar]: {{<ref "moonstar">}}
