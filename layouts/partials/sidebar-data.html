@@ -11,7 +11,7 @@
   </ul>
 
   {{ if .Params.parentLink }}
-    {{with $.GetPage .Params.parentLink }}
+    {{with .Params.parentLink }}
     <p class="f5 b mb1 ttc">{{ i18n "parent" }}</p>
     <ul class="pa0 mt0 list">
         <li  class="mb2">
