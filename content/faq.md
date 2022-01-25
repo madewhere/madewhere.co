@@ -56,6 +56,13 @@ Generally though, I think this provides a reasonable set of guidelines:
   "wood burning stoves". Many of those are made right in the country where you
   live, but I don't imagine it brings much value to list those here. Case by
   case basis maybe.
+* _High tech:_ Things like computers and phones almost certainly don't qualify;
+  they're unlikely to last, change all the time, and the manufacturers are
+  extremely complex to identify outside of final assembly. There could be things
+  in this category that would fit, but we haven't thought of any just yet.
+* _Vehicles_: Again, too hard to prove they'll last for contemporary vehicles,
+  and they change far too often; a site full of old Volvo Wagons and Toyota
+  Hilux trucks sounds sweet but isn't really the aim.
 
 ### Is this site USA-centric?
 
