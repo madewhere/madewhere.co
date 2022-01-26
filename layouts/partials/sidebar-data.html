@@ -1,4 +1,17 @@
 <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  <p class="f5 b mb1 ttc">{{ i18n "categories" }}</p>
+  <ul class="pa0 mt0 list">
+    {{ range .Params.categories }}
+      {{ with $.GetPage ( print "/categories/" .) }}
+      <li class="mb2">
+        <a href="{{ .RelPermalink }}">
+          <span class="ttc">{{- .Title -}}</span>
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+
   <p class="f5 b mb1 ttc">{{ i18n "origins" }}</p>
   <ul class="pa0 mt0 list">
     {{ range .Params.origins }}

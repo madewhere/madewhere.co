@@ -16,6 +16,7 @@ origins:
   - england
   - unknown
 tags:
+  - mixed-origin
 
 links:
   - url: https://www.heathceramics.com/
