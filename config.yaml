@@ -1,8 +1,8 @@
-baseURL: 'https://products.fardog.io/'
+baseURL: 'https://madewhere.co/'
 languageCode: 'en-us'
-title: 'Products'
+title: 'madewhere'
 theme: ananke
-copyright: Product Contributors 
+copyright: madewhere Contributors 
 
 taxonomies:
   category: categories
@@ -19,17 +19,17 @@ related:
 
 params:
   repository:
-    url: https://github.com/fardog/products
+    url: https://github.com/madewhere/madewhere.co
   contributing:
-    url: https://github.com/fardog/products/blob/main/CONTRIBUTING.md
+    url: https://github.com/madewhere/madewhere.co/blob/main/CONTRIBUTING.md
   contentLicense:
     text: CC BY 4.0
     url: https://creativecommons.org/licenses/by/4.0/
   codeLicense:
     text: MIT
-    url: https://github.com/fardog/products/blob/main/LICENSE
+    url: https://github.com/madewhere/madewhere.co/blob/main/LICENSE
   codeOfConduct:
-    url: https://github.com/fardog/products/blob/main/CODE_OF_CONDUCT.md
+    url: https://github.com/madewhere/madewhere.co/blob/main/CODE_OF_CONDUCT.md
 
 DefaultContentLanguage: en
 SectionPagesMenu: main
