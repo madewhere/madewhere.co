@@ -1,5 +1,10 @@
 # madewhere.co
 
+This is the source for [madewhere][], a website dedicated to quality and fairly
+made goods and the manufacturers that make them.
+
+[madewhere]: https://madewhere.co/
+
 # License
 
 Copyright (c) 2022 Nathan Wittstock and contributors
