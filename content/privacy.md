@@ -15,4 +15,4 @@ To view how this site is built, see its [repository].
 
 [cookies]: https://en.wikipedia.org/wiki/HTTP_cookie
 [Github Pages]: https://pages.github.com/
-[repo]: {{< param "repository.url" >}}
+[repository]: {{< param "repository.url" >}}
