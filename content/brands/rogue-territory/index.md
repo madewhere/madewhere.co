@@ -17,4 +17,4 @@ links:
 ---
 
 Rogue Territory is a clothing brand, manufactured primarily in California; they
-make denim jeans, jackets, shirts, and accessories. 
+make denim jeans, jackets, shirts, and accessories.
