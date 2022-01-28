@@ -27,8 +27,8 @@ kind!
 
 Fourth, understand that any contributions you make will be licensed under
 Creative Commons licensing; you may view this license at [{{< param
-"contentLicense.text" >}}][license], but the short of it is: your content is yours,
-but anyone may reproduce it so long as it is attributed to this site.
+"contentLicense.text" >}}][license], but the short of it is: your content
+is yours, but anyone may reproduce it so long as it is attributed to this site.
 
 [license]: {{< param "contentLicense.url" >}}
 
@@ -50,9 +50,9 @@ the site.
 volunteers, and they aren't paid! It might take some time before you get a
 response to your issue.
 
-[issues]: {{< param "repository.url" >}}/issues [repository]:
-{{< param "repository.url" >}} [file an issue]:
-{{< param "repository.url" >}}/issues/new
+[issues]: {{< param "repository.url" >}}/issues
+[repository]: {{< param "repository.url" >}}
+[file an issue]: {{< param "repository.url" >}}/issues/new
 
 # Contributing via Pull Request {#code}
 
@@ -62,5 +62,4 @@ environment set up (it's kept intentionally simple), adding new content, our
 style guide, and hopefully everything else you need to get started!
 
 [hugo]: https://gohugo.io
-
 [contribution guide]: {{< param "contributing.url" >}}

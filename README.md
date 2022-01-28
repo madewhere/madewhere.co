@@ -10,7 +10,7 @@ made goods and the manufacturers that make them.
 - [ ] Overhaul homepage
 - [x] Create deploy keys
 - [x] Add vscode suggested extensions
-  - [*] Add to contribution guide
+  - [ ] Add to contribution guide
 - [ ] Add additional categories to existing products
 
 ## License

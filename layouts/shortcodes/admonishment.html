@@ -1,17 +1,17 @@
-{{ $colors := "bg-lightest-blue navy"}} {{ with .Get 0 }} {{ if eq . "warning"}}
-{{ $colors = "bg-yellow near-black"}} {{ else if eq . "danger" }} {{ $colors =
-"bg-dark-red near-white"}} {{ end }} {{ end }}
+{{ $colors := "bg-lightest-blue navy"}}
+{{ with .Get 0 }}
+  {{ if eq . "warning"}}
+    {{ $colors = "bg-yellow near-black"}}
+  {{ else if eq . "danger" }}
+    {{ $colors = "bg-dark-red near-white"}}
+  {{ end }}
+{{ end }}
 <div class="f5 br3 pa3 flex items-center justify-center {{ $colors }}">
-  <svg
-    class="w2"
-    data-icon="info"
-    viewBox="0 0 32 32"
-    style="fill: currentcolor"
-  >
+  <svg class="w2" data-icon="info" viewBox="0 0 32 32" style="fill:currentcolor">
     <title>info icon</title>
-    <path
-      d="M16 0 A16 16 0 0 1 16 32 A16 16 0 0 1 16 0 M19 15 L13 15 L13 26 L19 26 z M16 6 A3 3 0 0 0 16 12 A3 3 0 0 0 16 6"
-    ></path>
+    <path d="M16 0 A16 16 0 0 1 16 32 A16 16 0 0 1 16 0 M19 15 L13 15 L13 26 L19 26 z M16 6 A3 3 0 0 0 16 12 A3 3 0 0 0 16 6"></path>
   </svg>
-  <span class="lh-title ml3"> {{ .Inner | .Page.RenderString }} </span>
+  <span class="lh-title ml3">
+    {{ .Inner | .Page.RenderString }}
+  </span>
 </div>

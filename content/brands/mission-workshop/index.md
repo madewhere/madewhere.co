@@ -22,5 +22,5 @@ links:
 
 Mission Workshop is a San Francisco-based maker of bags and technical clothing;
 they focused mostly on bike gear, but have since diversified into more technical
-wear. Much of their technical gear isn't made in the USA, so be sure to check on
-a product-by-product basis.
+wear. Much of their technical gear isn't made in the USA, so be sure to check
+on a product-by-product basis.

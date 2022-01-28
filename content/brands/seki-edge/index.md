@@ -23,4 +23,4 @@ Tweezers, shears, nail clippers, and other personal care products.
 
 In the United States, Seki Edge is distributed by [Jatai].
 
-[jatai]: https://www.jatai.net/
+[Jatai]: https://www.jatai.net/

@@ -27,5 +27,4 @@ Cambro focuses on commercial markets and doesn't sell direct to consumers, but
 their products can be found on [WebstaurantStore].
 
 [food storage]: https://www.cambro.com/products/food-storage
-
 [webstaurantstore]: {{< ref "/vendors/webstaurantstore" >}}

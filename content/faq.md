@@ -89,27 +89,26 @@ exhaustive, and it's also not a line-in-the-sand; if you have brands that you
 think should be listed we can have a discussion when they are submitted.
 Generally though, I think this provides a reasonable set of guidelines:
 
-- _Bespoke/non-commodity items:_ There are many things you could have made
-  custom by some local builder, but they aren't really commercially available
-  products. We're looking for things that are available off-the-shelf to most
-  consumers.
-- _Overly broad brands:_ KitchenAid springs to mind; their stand mixers might be
+* _Bespoke/non-commodity items:_ There are many things you could have made custom
+  by some local builder, but they aren't really commercially available products.
+  We're looking for things that are available off-the-shelf to most consumers.
+* _Overly broad brands:_ KitchenAid springs to mind; their stand mixers might be
   made in the USA still (we think?) but they also make thousands of other items
   which are made by who-knows and of varying quality. We wouldn't list them on
   this site.
-- _Non-contemporary items:_ Many things you could buy used, vintage, etc. would
+* _Non-contemporary items:_ Many things you could buy used, vintage, etc. would
   fit our criteria easily. However this site is focused on items you can buy
   today. Buying used is awesome and you should do it, but it's just not the
   focus of this site.
-- _Niche products:_ This is hand-wavey but a representative category might be
+* _Niche products:_ This is hand-wavey but a representative category might be
   "wood burning stoves". Many of those are made right in the country where you
   live, but I don't imagine it brings much value to list those here. Case by
   case basis maybe.
-- _High tech:_ Things like computers and phones almost certainly don't qualify;
+* _High tech:_ Things like computers and phones almost certainly don't qualify;
   they're unlikely to last, change all the time, and the manufacturers are
   extremely complex to identify outside of final assembly. There could be things
   in this category that would fit, but we haven't thought of any just yet.
-- _Vehicles_: Again, too hard to prove they'll last for contemporary vehicles,
+* _Vehicles_: Again, too hard to prove they'll last for contemporary vehicles,
   and they change far too often; a site full of old Volvo Wagons and Toyota
   Hilux trucks sounds sweet but isn't really the aim.
 

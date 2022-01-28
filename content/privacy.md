@@ -14,6 +14,5 @@ statistics they may collect.
 To view how this site is built, see its [repository].
 
 [cookies]: https://en.wikipedia.org/wiki/HTTP_cookie
-[github pages]: https://pages.github.com/
-
+[Github Pages]: https://pages.github.com/
 [repository]: {{< param "repository.url" >}}
