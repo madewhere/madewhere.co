@@ -14,8 +14,3 @@ hugo.linux
 
 # local binaries
 /.bin
-
-# add vscode workspace extensions
-/.vscode/*
-!/.vscode/extensions.json
-!/.vscode/settings.json

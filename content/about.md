@@ -6,15 +6,15 @@ description: About us, and the products we list.
 
 Products is a website dedicated to specific types of goods; those that are:
 
-- Built to last
-- Made in countries with reasonable labor laws
-- Priced for their quality, not for luxury
+* Built to last
+* Made in countries with reasonable labor laws
+* Priced for their quality, not for luxury
 
 There is also a special nod—and occasionally some concessions—for products which
 are:
 
-- Eco-friendly in manufacture or packaging
-- Employee owned
+* Eco-friendly in manufacture or packaging
+* Employee owned
 
 This site is meant as a database to locate these goods and discover their
 pitfalls; just because some products from a particular brand fill these
@@ -38,11 +38,11 @@ this site by following the [Contribution Guide].
 This site is built using some great [Open Source software][oss], and we greatly
 appreciate the contributors that make it possible:
 
-- [Hugo](https://gohugo.io)
-- [Ananke Theme](https://github.com/theNewDynamic/gohugo-theme-ananke)
+* [Hugo](https://gohugo.io)
+* [Ananke Theme](https://github.com/theNewDynamic/gohugo-theme-ananke)
 
 This site is built with [GitHub Actions], and hosted via [GitHub Pages].
 
 [oss]: https://en.wikipedia.org/wiki/Open-source_software
-[github actions]: https://github.com/features/actions
-[github pages]: https://pages.github.com/
+[Github Actions]: https://github.com/features/actions
+[GitHub Pages]: https://pages.github.com/

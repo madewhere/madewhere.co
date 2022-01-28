@@ -1,8 +1,8 @@
-baseURL: "https://madewhere.co/"
-languageCode: "en-us"
-title: "madewhere"
+baseURL: 'https://madewhere.co/'
+languageCode: 'en-us'
+title: 'madewhere'
 theme: ananke
-copyright: madewhere Contributors
+copyright: madewhere Contributors 
 
 taxonomies:
   category: categories
@@ -12,8 +12,8 @@ taxonomies:
 related:
   includeNewer: true
   indices:
-    - name: parent
-      weight: 100
+  - name: parent
+    weight: 100
   threshold: 80
   toLower: true
 
