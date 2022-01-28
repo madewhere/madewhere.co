@@ -13,7 +13,7 @@ tags:
   - independent
 
 links:
-  - url: https://solidteknicsusa.com/ 
+  - url: https://solidteknicsusa.com/
     text: Solidteknics USA
 ---
 

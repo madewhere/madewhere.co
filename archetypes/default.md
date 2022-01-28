@@ -4,4 +4,3 @@ description:
 date: {{ .Date }}
 draft: true
 ---
-
