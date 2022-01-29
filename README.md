@@ -8,10 +8,10 @@ made goods and the manufacturers that make them.
 ## TODO
 
 * [ ] Overhaul homepage
-* [ ] Create deploy keys
-* [ ] Add vscode suggested extensions
-  * [ ] Add to contribution guide
-* [ ] Add additional categories to existing products
+* [x] Create deploy keys
+* [x] Add vscode suggested extensions
+  * [x] Add to contribution guide
+* [x] Add additional categories to existing products
 
 ## License
 

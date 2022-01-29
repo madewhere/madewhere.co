@@ -6,6 +6,7 @@ stub: true
 
 categories:
   - kitchen
+  - appliances
 origins:
   - japan
   - unknown

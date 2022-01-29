@@ -7,6 +7,8 @@ stub: true
 
 categories:
   - kitchen
+  - cookware
+  - bakeware
 origins:
   - france
 tags:

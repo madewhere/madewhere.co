@@ -7,6 +7,7 @@ stub: true
 
 categories:
   - office
+  - stationery
 origins:
   - germany
 tags:

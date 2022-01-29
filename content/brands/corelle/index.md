@@ -7,6 +7,7 @@ stub: true
 
 categories:
   - kitchen
+  - dinnerware
 origins:
   - usa
 tags:

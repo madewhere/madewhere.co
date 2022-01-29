@@ -6,6 +6,7 @@ stub: true
 
 categories:
   - kitchen
+  - storage
 origins:
   - usa
 tags:

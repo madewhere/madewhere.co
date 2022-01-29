@@ -7,6 +7,7 @@ stub: true
 
 categories:
   - kitchen
+  - appliances
 origins:
   - netherlands
 tags:

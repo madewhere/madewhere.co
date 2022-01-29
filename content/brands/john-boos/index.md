@@ -7,6 +7,7 @@ stub: true
 
 categories:
   - kitchen
+  - furniture
 origins:
   - usa
 tags:

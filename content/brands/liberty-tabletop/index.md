@@ -7,6 +7,7 @@ stub: true
 
 categories:
   - kitchen
+  - flatware
 origins:
   - usa
 tags:

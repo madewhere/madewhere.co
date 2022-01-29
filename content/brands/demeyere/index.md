@@ -6,8 +6,11 @@ stub: true
 
 categories:
   - kitchen
+  - cookware
+  - bakeware
 origins:
   - belgium
+  - unknown
 tags:
   - mixed origin
 parent: zwilling

@@ -6,6 +6,8 @@ stub: true
 
 categories:
   - kitchen
+  - cookware
+  - bakeware
 origins:
   - usa
 tags:

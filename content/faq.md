@@ -80,7 +80,11 @@ money goes to benefit everyone that worked on making it a reality.
 ### How do you know these brands treat people fairly?
 
 We don't. And you are absolutely encouraged to do your own research to see how
-you feel about the products you buy on a case by case basis.
+you feel about the products you buy on a case by case basis. If you do that
+research and find out things you think might help others make decisions,
+consider [contributing].
+
+[contributing]: {{< ref "/contribute" >}}
 
 ### What isn't on this list?
 
