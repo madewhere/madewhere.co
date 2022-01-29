@@ -54,6 +54,14 @@ Follow these rules when creating new content:
   carry with it (images, etc.). The archetypes handle this automatically.
   * Exceptions are for meta content pages that are part of the site, such as the
     "About" page.
+* Creates all files as UTF-8, with Unix newlines
+* Trim trailing whitespace
+* Insert a final newline at the end of files
+
+We provide an [editorconfig][] for automatically handling the last three bullets
+if your editor supports this.
+
+[editorconfig]: https://editorconfig.org/
 
 ## Markdown Style Guide
 
@@ -95,7 +103,11 @@ Our style guide for Markdown is as follows:
 
 [config]: ./config.yaml
 
-TODO: editorconfig
+Sadly, we can't autoformat markdown due to the parser in [Prettier][] failing
+on Hugo's link refs; however if this changes or a workaround becomes available
+(or we write one) we will just defer to Prettier's formatting most likely.
+
+[prettier]: https://prettier.io
 
 ## Theming, HTML
 
