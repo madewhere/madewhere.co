@@ -12,6 +12,7 @@
     {{ end }}
   </ul>
 
+  {{ if .Params.origins }}
   <p class="f5 b mb1 ttc">{{ i18n "origins" }}</p>
   <ul class="pa0 mt0 list">
     {{ range .Params.origins }}
@@ -24,6 +25,7 @@
       {{ end }}
     {{ end }}
   </ul>
+  {{ end }}
 
   {{ if .Params.parentLink }}
     {{with .Params.parentLink }}
