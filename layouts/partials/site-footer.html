@@ -1,6 +1,6 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex-l justify-between items-center">
-    <div class="f4 fw4 white-70 dn dib-ns pv2 ph3 w-60">
+    <div class="f5 fw4 white-70 dn dib-ns pv2 ph3 w-60">
       &copy; {{ now.Format "2006"}} {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ end }}
       —
       {{ with .Site.Params.contentLicense }}
@@ -10,7 +10,7 @@
       Code: <a class="white-70 hover-white" href="{{ .url }}" target="_blank">{{ .text }}</a>, unless otherwise noted.
       {{ end }}
 
-      <p class="f6 fw6 pt0">
+      <p class="f6 fw6 pv0 mv2">
         View the
         {{ with .Site.Params.repository }}
         <a class="white-70 hover-white" href="{{ .url }}" target="_blank">source</a>

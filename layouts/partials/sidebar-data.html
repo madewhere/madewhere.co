@@ -27,15 +27,14 @@
   </ul>
   {{ end }}
 
-  {{ if .Params.parentLink }}
+  {{ if .Params.parentLink.url }}
     {{with .Params.parentLink }}
     <p class="f5 b mb1 ttc">{{ i18n "parent" }}</p>
     <ul class="pa0 mt0 list">
-        <li  class="mb2">
-          <a href="{{ .url }}" target="_blank">
-            <span class="ttc">{{- .text -}}</span>
-          </a>
-        </li>
+      <li  class="mb2">
+        {{ .Scratch.Set "classes" "ttc" }}
+        {{ partial "external-link.html" . }}
+      </li>
     </ul>
     {{ end }}
   {{ else if .Params.parent }}
@@ -71,7 +70,8 @@
     {{ range .Params.links }}
       <li  class="mb2">
         <a href="{{ .url }}" target="_blank">
-          <span class="ttc">{{- .text -}}</span>
+          {{ .Scratch.Set "classes" "ttc" }}
+          {{ partial "external-link.html" . }}
         </a>
       </li>
     {{ end }}

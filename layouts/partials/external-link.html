@@ -1,0 +1,7 @@
+{{ if .url }}
+<a href="{{- .url -}}" target="_blank">
+  <span class="{{ .Scratch.Get "classes" }}">{{- .text | default .url -}}</span>
+</a>
+{{ else }}
+  {{ errorf "no url found in link" . }}
+{{ end }}

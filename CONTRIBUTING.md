@@ -48,13 +48,18 @@ Follow these rules when creating new content:
 * Content file names should be lowercase
 * Content file names should be valid URLs; do not use special characters,
   accents, etc.
+  * When replacing special characters, use a `-`; e.g. "D'Addario" becomes
+    `d-addario`
+  * Do not place multiple dashes next to one another: if replacing multiple
+    characters, collapse them to a single character; e.g. "Puss 'n Boots"
+    `puss-n-boots` _not_ `puss--n-boots`.
 * Name files by the full brand name you are adding, but omit superfluous
   postfixes like "company" unless they are common in referring to the brand
 * Content should be in a directory, to house any other files we might want to
   carry with it (images, etc.). The archetypes handle this automatically.
   * Exceptions are for meta content pages that are part of the site, such as the
     "About" page.
-* Creates all files as UTF-8, with Unix newlines
+* Create all files as UTF-8, with Unix newlines
 * Trim trailing whitespace
 * Insert a final newline at the end of files
 

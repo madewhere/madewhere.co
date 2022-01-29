@@ -13,7 +13,7 @@ First of all, contributors must follow our [Code of Conduct].
 
 Second, contributions to this site happen on [GitHub]; if you don't have an
 account there, you'll want to create one. Github is a website where people
-collaborate on code, but if you're not a programmer don't worry! You can add to
+collaborate on code; but if you're not a programmer, don't worry! You can add to
 the site in a number of ways, and it doesn't have to involve writing code if
 that's not your thing.
 
@@ -33,8 +33,8 @@ is yours, but anyone may reproduce it so long as it is attributed to this site.
 [license]: {{< param "contentLicense.url" >}}
 
 This contribution guide is split into two sections; the first is for everyone.
-If you are comfortable with code; you can [skip to the next section]({{<ref
-"#code">}}).
+If you are comfortable with code and GitHub; you can [skip to the next
+section]({{<ref "#code">}}).
 
 # Contribute by filing an Issue {#issue}
 

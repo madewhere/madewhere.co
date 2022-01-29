@@ -91,7 +91,7 @@ consider [contributing].
 Lots of things. We'll provide some examples but take note that this isn't
 exhaustive, and it's also not a line-in-the-sand; if you have brands that you
 think should be listed we can have a discussion when they are submitted.
-Generally though, I think this provides a reasonable set of guidelines:
+Generally though, this provides a reasonable set of guidelines:
 
 * _Bespoke/non-commodity items:_ There are many things you could have made custom
   by some local builder, but they aren't really commercially available products.
@@ -102,8 +102,8 @@ Generally though, I think this provides a reasonable set of guidelines:
   this site.
 * _Non-contemporary items:_ Many things you could buy used, vintage, etc. would
   fit our criteria easily. However this site is focused on items you can buy
-  today. Buying used is awesome and you should do it, but it's just not the
-  focus of this site.
+  today. Buying used is awesome and you should do it, but it's just not our
+  focus.
 * _Niche products:_ This is hand-wavey but a representative category might be
   "wood burning stoves". Many of those are made right in the country where you
   live, but I don't imagine it brings much value to list those here. Case by

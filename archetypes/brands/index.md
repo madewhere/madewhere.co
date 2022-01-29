@@ -21,6 +21,6 @@ parentLink:
 vendors:
 
 links:
-  - url: https://brand.example/
+  - url:
     text: "{{ replace .Name "-" " " | title }}"
 ---

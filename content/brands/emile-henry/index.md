@@ -14,7 +14,7 @@ origins:
 tags:
 
 links:
-  - url: https://brand.example/
+  - url: https://www.emilehenryusa.com/
     text: "Émile Henry"
 ---
 
