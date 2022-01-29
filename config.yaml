@@ -1,8 +1,17 @@
 baseURL: "https://madewhere.co/"
-languageCode: "en-us"
 title: "madewhere"
-theme: ananke
 copyright: madewhere Contributors
+
+theme: ananke
+
+sectionPagesMenu: main
+paginate: 50
+enableRobotsTXT: true
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageCode: "en-US"
 
 taxonomies:
   category: categories
@@ -19,8 +28,10 @@ related:
 
 params:
   repository:
+    text: github.com/madewhere/madewhere.co
     url: https://github.com/madewhere/madewhere.co
   contributing:
+    text: Contribution Guide
     url: https://github.com/madewhere/madewhere.co/blob/main/CONTRIBUTING.md
   contentLicense:
     text: CC BY 4.0
@@ -29,9 +40,5 @@ params:
     text: MIT
     url: https://github.com/madewhere/madewhere.co/blob/main/LICENSE
   codeOfConduct:
+    text: Contributor Covenant Code of Conduct
     url: https://github.com/madewhere/madewhere.co/blob/main/CODE_OF_CONDUCT.md
-
-DefaultContentLanguage: en
-SectionPagesMenu: main
-Paginate: 50
-enableRobotsTXT: true

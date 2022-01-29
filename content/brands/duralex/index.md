@@ -8,6 +8,7 @@ categories:
   - kitchen
   - bakeware
   - dinnerware
+  - glassware
 origins:
   - france
 tags:
