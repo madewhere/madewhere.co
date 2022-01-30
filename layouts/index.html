@@ -11,9 +11,11 @@
     <div class="f5">
     {{ range $key, $value := .Site.Taxonomies.categories }}
       {{ with $.GetPage ( print "/categories/" $key) }}
+        {{ if not .Params.excludeFromListing }}
         <a class="ba b--moon-gray bg-light-gray br2 color-inherit dib hover-bg-moon-gray link mt2 ph2 pv1" href="{{ .RelPermalink }}">
           <span class="ttc">{{- .Title -}}</span>
         </a>
+        {{ end }}
       {{ end }}
     {{ end }}
     </div>
@@ -24,9 +26,11 @@
     <div class="f5">
     {{ range $key, $value := .Site.Taxonomies.origins }}
       {{ with $.GetPage ( print "/origins/" $key) }}
+        {{ if not .Params.excludeFromListing }}
         <a class="ba b--moon-gray bg-light-gray br2 color-inherit dib hover-bg-moon-gray link mt2 ph2 pv1" href="{{ .RelPermalink }}">
           <span class="ttc">{{- .Title -}}</span>
         </a>
+        {{ end }}
       {{ end }}
     {{ end }}
     </div>
