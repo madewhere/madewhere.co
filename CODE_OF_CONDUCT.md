@@ -61,8 +61,8 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement by filing an issue
-on this repository, or emailing `nate at fardog dot io`.
-All complaints will be reviewed and investigated promptly and fairly.
+on this repository, or emailing `coc-violation@madewhere.co`. All complaints
+will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
