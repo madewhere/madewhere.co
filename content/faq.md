@@ -12,7 +12,7 @@ about in more detail.
 
 ### Why maintain this list?
 
-(from the editor) I was maintaining it anyway, but in a private document and in
+_[From the editor…]_ I was maintaining it anyway, but in a private document and in
 my head. I would add new things to it as I came across them. I figured other
 people might have similar criteria, and the brands listed here are also often
 good answers to questions like "what sort of fill-in-the-blank will last me
@@ -30,8 +30,9 @@ vouch for".
 
 ### Do you review things on this site?
 
-(from the editor) No, although that sounds like a fun job. If we were to start
-doing reviews, I think that'd be a good topic for a different website.
+No, we don't do reviews. Although that sounds like fun, that would be a topic
+for another site. We hope this site becomes a repository for information about
+brands and their manufacturing practices, not individual product reviews.
 
 ## The Brands we List
 
