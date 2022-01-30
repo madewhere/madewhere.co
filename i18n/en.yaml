@@ -1,0 +1,23 @@
+categories:
+  other: categories
+
+categories-description:
+  other: Goods arranged by their use.
+
+origins:
+  other: origins
+
+origins-description:
+  other: The countries where goods are manufactured.
+
+parent:
+  other: parent
+
+parent-description:
+  other: The parent company, if any.
+
+links:
+  other: external links
+
+vendors:
+  other: vendors

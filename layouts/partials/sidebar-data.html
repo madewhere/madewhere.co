@@ -1,0 +1,79 @@
+<div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  <p class="f5 b mb1 ttc">{{ i18n "categories" }}</p>
+  <ul class="pa0 mt0 list">
+    {{ range .Params.categories }}
+      {{ with $.GetPage ( print "/categories/" .) }}
+      <li class="mb2">
+        <a href="{{ .RelPermalink }}">
+          <span class="ttc">{{- .Title -}}</span>
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+
+  {{ if .Params.origins }}
+  <p class="f5 b mb1 ttc">{{ i18n "origins" }}</p>
+  <ul class="pa0 mt0 list">
+    {{ range .Params.origins }}
+      {{ with $.GetPage ( print "/origins/" .) }}
+      <li class="mb2">
+        <a href="{{ .RelPermalink }}">
+          <span class="ttc">{{- .Title -}}</span>
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  {{ if .Params.parentLink.url }}
+    {{with .Params.parentLink }}
+    <p class="f5 b mb1 ttc">{{ i18n "parent" }}</p>
+    <ul class="pa0 mt0 list">
+      <li  class="mb2">
+        {{ .Scratch.Set "classes" "ttc" }}
+        {{ partial "external-link.html" . }}
+      </li>
+    </ul>
+    {{ end }}
+  {{ else if .Params.parent }}
+    {{ with $.GetPage .Params.parent }}
+    <p class="f5 b mb1 ttc">{{ i18n "parent" }}</p>
+    <ul class="pa0 mt0 list">
+        <li  class="mb2">
+          <a href="{{ .RelPermalink }}">
+            <span class="ttc">{{- .Title -}}</span>
+          </a>
+        </li>
+    </ul>
+    {{ end }}
+  {{ end }}
+
+  {{ if .Params.vendors }}
+  <p class="f5 b mb1 ttc">{{ i18n "vendors" }}</p>
+  <ul class="pa0 mt0 list">
+    {{ range .Params.vendors }}
+    {{ with $.GetPage (print "/vendors/" .) }}
+      <li  class="mb2">
+        <a href="{{ .RelPermalink }}">
+          <span class="ttc">{{- .Title -}}</span>
+        </a>
+      </li>
+    {{ end }}
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  <p class="f5 b mb1 ttc">{{ i18n "links" }}</p>
+  <ul class="pa0 mt0 list">
+    {{ range .Params.links }}
+      <li  class="mb2">
+        <a href="{{ .url }}" target="_blank">
+          {{ .Scratch.Set "classes" "ttc" }}
+          {{ partial "external-link.html" . }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</div>
