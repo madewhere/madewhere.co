@@ -6,6 +6,14 @@ prototype, but a functional one.
 
 [madewhere]: https://madewhere.co/
 
+## Contributing
+
+We welcome contributions! Please see:
+
+* Our [Code of Conduct](./CODE_OF_CONDUCT.md)
+* [Contribution Overview][contribution], to get started as a contributor
+* [Contribution Guide](./CONTRIBUTING.md), the technical contribution guide for
+  this repository
 
 ## License
 
