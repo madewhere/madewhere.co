@@ -1,17 +1,11 @@
 # madewhere.co
 
 This is the source for [madewhere][], a website dedicated to quality and fairly
-made goods and the manufacturers that make them.
+made goods and the manufacturers that make them.  This site is currently a
+prototype, but a functional one.
 
 [madewhere]: https://madewhere.co/
 
-## TODO
-
-* [ ] Overhaul homepage
-* [x] Create deploy keys
-* [x] Add vscode suggested extensions
-  * [x] Add to contribution guide
-* [x] Add additional categories to existing products
 
 ## License
 
