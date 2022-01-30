@@ -7,7 +7,7 @@ already, be sure to read our [Code of Conduct](./CODE_OF_CONDUCT.md) as it
 details what we expect from our contributors; following it is a requirement of
 contributing to this project.
 
-This guide also assumes some familiarity with [Hugo], the popular static site
+This guide also assumes some familiarity with [Hugo][], the popular static site
 framework. If you aren't familiar, please read its documentation as we won't
 reproduce much of it here.
 
@@ -15,10 +15,12 @@ reproduce much of it here.
 
 ## Setup
 
-Development should work equally well on Linux, Windows (with or without [WSL]),
-or macOS.
+Development should work equally well on Linux, Windows (with or without
+[WSL][]), or macOS.
 
-You'll need to have [Hugo] installed as required for your operating system.
+[WSL]: https://docs.microsoft.com/en-us/windows/wsl/about
+
+You'll need to have [Hugo][] installed as required for your operating system.
 **Please note:** we use a pinned version of Hugo; if you need to check the
 current version used for building, see the [Github Workflow][workflow].
 

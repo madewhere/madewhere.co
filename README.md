@@ -15,6 +15,8 @@ We welcome contributions! Please see:
 * [Contribution Guide](./CONTRIBUTING.md), the technical contribution guide for
   this repository
 
+[contribution]: https://madewhere.co/contribute/
+
 ## License
 
 Copyright (c) 2022 madewhere contributors
