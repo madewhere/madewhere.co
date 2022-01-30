@@ -10,6 +10,6 @@ categories:
 tags:
 
 links:
-  - url: https://vendor.example/
+  - url:
     text: "{{ replace .Name "-" " " | title }}"
 ---
