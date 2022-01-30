@@ -11,6 +11,7 @@ categories:
 origins:
   - netherlands
 tags:
+  - coffee
 parent: technivorm
 vendors:
 

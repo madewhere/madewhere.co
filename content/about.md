@@ -4,7 +4,7 @@ date: 2022-01-22
 description: About us, and the products we list.
 ---
 
-Products is a website dedicated to specific types of goods; those that are:
+madewhere is a website dedicated to specific types of goods; those that are:
 
 * Built to last
 * Made in countries with reasonable labor laws
@@ -29,7 +29,7 @@ You can read more details in our [FAQ].
 [FAQ]: {{<ref "/faq" >}}
 
 This site's contributions come from volunteers, and anyone may contribute to
-this site by following the [Contribution Guide].
+this site by following the [Contribution Guide][].
 
 [Contribution Guide]: {{< ref "/contribute" >}}
 
@@ -41,7 +41,7 @@ appreciate the contributors that make it possible:
 * [Hugo](https://gohugo.io)
 * [Ananke Theme](https://github.com/theNewDynamic/gohugo-theme-ananke)
 
-This site is built with [GitHub Actions], and hosted via [GitHub Pages].
+This site is built with [GitHub Actions][], and hosted via [GitHub Pages][].
 
 [oss]: https://en.wikipedia.org/wiki/Open-source_software
 [Github Actions]: https://github.com/features/actions
