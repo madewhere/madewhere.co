@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vendors on madewhere</title>
+    <link>https://madewhere.co/vendors/</link>
+    <description>Recent content in Vendors on madewhere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>madewhere Contributors</copyright>
+    <lastBuildDate>Tue, 25 Jan 2022 20:49:43 -0800</lastBuildDate><atom:link href="https://madewhere.co/vendors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heath Ceramics</title>
+      <link>https://madewhere.co/vendors/heath-ceramics/</link>
+      <pubDate>Tue, 25 Jan 2022 20:49:43 -0800</pubDate>
+      
+      <guid>https://madewhere.co/vendors/heath-ceramics/</guid>
+      <description>Heath Ceramics is primarily known for their ceramic products, but they also act as a vendor for a wide variety of items which appear to be from reasonable sources.
+They list origin of products they carry prominently on individual product pages.</description>
+    </item>
+    
+    <item>
+      <title>Blue Owl</title>
+      <link>https://madewhere.co/vendors/blue-owl/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://madewhere.co/vendors/blue-owl/</guid>
+      <description>Blue Owl is a retailer which specializes in workwear, carrying a number of well made brands including a large number Japanese brands. Unfortunately not all of the brands they carry are responsibly made, so research each before buying.
+They also have a physical store in Seattle, WA.</description>
+    </item>
+    
+    <item>
+      <title>WebstaurantStore</title>
+      <link>https://madewhere.co/vendors/webstaurantstore/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://madewhere.co/vendors/webstaurantstore/</guid>
+      <description>WebstaurantStore is a large online retailer specializing in the food service industry, but they will sell to the general public.
+They are USA focused, and will prominently display badges on USA-made goods, as well as allowing that as a search constraint.</description>
+    </item>
+    
+  </channel>
+</rss>

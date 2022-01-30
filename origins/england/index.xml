@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>England on madewhere</title>
+    <link>https://madewhere.co/origins/england/</link>
+    <description>Recent content in England on madewhere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>madewhere Contributors</copyright>
+    <lastBuildDate>Mon, 24 Jan 2022 22:52:42 -0800</lastBuildDate><atom:link href="https://madewhere.co/origins/england/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heath Ceramics</title>
+      <link>https://madewhere.co/brands/heath-ceramics/</link>
+      <pubDate>Mon, 24 Jan 2022 22:52:42 -0800</pubDate>
+      
+      <guid>https://madewhere.co/brands/heath-ceramics/</guid>
+      <description>Heath Ceramics is primarily known for ceramic goods which they make in their California factory. They&amp;rsquo;ve recently started producing other products, like flatware. They also carry a significant number of other items which seem carefully selected, but haven&amp;rsquo;t been fully evaluated.
+See their vendor page for more information.</description>
+    </item>
+    
+    <item>
+      <title>Thermoworks</title>
+      <link>https://madewhere.co/brands/thermoworks/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://madewhere.co/brands/thermoworks/</guid>
+      <description>Thermoworks primary product is handheld fast-read digital thermometers for cooking use. Their flagship Thermapen line is made in England.
+Products which are made in England are explicitly market on product pages.</description>
+    </item>
+    
+  </channel>
+</rss>
