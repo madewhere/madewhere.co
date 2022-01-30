@@ -94,10 +94,8 @@ Our style guide for Markdown is as follows:
   * Use `#` for all headings, not "dash" underlines
 * When creating links:
   * Prefer named links to inline links; e.g. `[Link Text][link]`
-  * When using named links, if the name is the same as the link, leave off the
-    trailing brackets entirely; e.g. `[Link Text]`
-    * The only exception to this is links intended to be rendered in GitHub,
-      such as this document. It doesn't appear to support this form.
+  * When using named links, if the name is the same as the link, use trailing
+    brackets; e.g. `[Link Text][]`
   * Use Hugo shortcodes for linking to other content; we don't want to manually
     manage internal links; e.g. `{{< ref "some-content-name" >}}`
 * When custom styling is needed, implement a Hugo shortcode; an example within
