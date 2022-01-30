@@ -60,9 +60,9 @@ To file an issue, please click one of the following links:
 [repository]: {{< param "repository.url" >}}
 [file an issue]: {{< param "repository.url" >}}/issues/new
 
-[add-content]: {{< param "repository.url" >}}/issues?template=.github/issue_new_content_template.md
-[update-content]: {{< param "repository.url" >}}/issues?template=.github/issue_update_content_template.md
-[meta-content]: {{< param "repository.url" >}}/issues?template=.github/issue_meta_content_template.md
+[add-content]: {{< param "repository.url" >}}/issues/new?title=%5BNEW%5D%20Add%20brand%20or%20vendor
+[update-content]: {{< param "repository.url" >}}/issues/new?title=%5BUPDATE%5D%20Update%20brand%20or%20vendor
+[meta-content]: {{< param "repository.url" >}}/issues/new?title=%5BMETA%5D%20Update%20site%20content
 
 # Contributing via Pull Request {#code}
 
