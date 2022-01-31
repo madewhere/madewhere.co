@@ -26,6 +26,9 @@ current version used for building, see the [Github Workflow][workflow].
 
 [workflow]: ./.github/workflows/gh-pages.yaml
 
+**Note:** Currently, madewhere requires Hugo "Extended" be installed; the
+non-extended version will work for the local server, but test builds will fail.
+
 If you need a different version of Hugo installed; it's a portable binary and
 keeping a different version installed is as easy as having it available in your
 path.
@@ -43,6 +46,14 @@ hugo new vendors/<vendor-name>
 ```
 
 …the above follows for origins, tags, and categories.
+
+For example, if you were adding a brand called "Cool Brand", you would do:
+
+```shell
+hugo new brands/cool-brand
+```
+
+…which will create a new file `brands/cool-brand/index.md` for you to edit.
 
 Follow these rules when creating new content:
 
@@ -114,6 +125,62 @@ on Hugo's link refs; however if this changes or a workaround becomes available
 
 [prettier]: https://prettier.io
 
+### Frontmatter
+
+The yaml frontmatter that is auto-generated from the archetypes attempts to be
+self-explanatory, but probably only half successfully; the rules are:
+
+* Singular items (such as `parent`) are meant to be single values
+* Plural items (such as `categories`) are meant to be list values
+
+A description of the non-standard frontmatter is as follows; the rest follows
+Hugo's [standard frontmatter][frontmatter].
+
+[frontmatter]: https://gohugo.io/content-management/front-matter/
+
+* `stub (boolean)`: when `true` the article is marked as being a "stub"; we use
+  the same definition as wikipedia here, where a "stub" is a placeholder article
+  which is not yet complete.
+* `categories ([]string)`: an array of strings representing categories; this
+  should match existing categories unless you are adding a new one
+* `origins ([]string)`: an array of strings representing the origins; this
+  should match existing origins unless you are adding a new one
+* `tags ([]string)`: an array of strings representing free-form associative
+  data, however some tags have special meaning, detailed below.
+* `vendors ([]string)`: an array of strings of vendors who carry the brand's
+  products; should be the identifier of the vendor, e.g. `/vendors/some-vendor`
+  would mean a value of `some-vendor`
+* `links ([]link)`: an array of links to external sites; more detail on `link`
+  is below
+* Parent data, which relates a brand to another parent brand. There are two ways
+  to specify this relation, either as an internal or external link. You should
+  do one or the other but never both:
+  * `parentLink (link)`: a link to an external parent site
+  * `parent`: an internal identifier of another brand; e.g. `/brands/some-brand`
+    would mean a value of `some-brand`
+
+#### Links
+
+A `link` is just a special data type that we use in a few locations for both
+configuration and frontmatter; it has two properties:
+
+* `url (string)`: the full URL to use; e.g. `https://brand.example/`
+* `text (string)`: the text to display on the anchor tag
+
+### Tags
+
+Tags are a freeform taxonomy for relating data; they can have their own pages
+and descriptions (under `/content/tags`) but generally we don't want to add them
+completely arbitrarily.
+
+Some tags have a second purpose however, as they are used for broader "thing you
+should note" sort of categories, and those may have an actual effect on the
+brand page that's being rendered. Those tags are listed below:
+
+* `mixed-origin`: Denotes a brand that doesn't make their products in any
+  single country.
+* `independent`: Denotes a brand with no parent corporation
+
 ## Theming, HTML
 
 The site is built using the [Ananke][] theme, pinned to a specific version.
@@ -126,6 +193,11 @@ theme for the vast majority of the site.
 
 Ideally some day we will write our own theme, but this is adequate for the
 prototype.
+
+Should you need to make any modifications, start by copy/pasting the template
+from Ananke into the `/layouts` directory, in the appropriate location (same as
+within the Ananke source) and then make your modifications as necessary. Note
+that Ananke is MIT licensed, as is the code for madewhere.
 
 [Ananke]: https://github.com/theNewDynamic/gohugo-theme-ananke
 [Tachyons]: https://tachyons.io/
