@@ -13,7 +13,9 @@ origins:
   - china
 tags:
   - mixed-origin
-  - independent
+parent:
+  - url: https://www.groupeseb.com/en
+    text: Groupe SEB
 
 links:
   - url: https://www.all-clad.com/
