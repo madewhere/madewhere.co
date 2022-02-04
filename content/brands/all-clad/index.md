@@ -13,7 +13,7 @@ origins:
   - china
 tags:
   - mixed-origin
-parent:
+parentLinks:
   - url: https://www.groupeseb.com/en
     text: Groupe SEB
 
