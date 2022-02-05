@@ -1,7 +1,6 @@
 ---
 title: Wüsthof
 date: 2022-01-21
-lastmod: 2022-02-05
 
 stub: true
 

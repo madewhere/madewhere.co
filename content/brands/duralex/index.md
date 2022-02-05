@@ -1,7 +1,6 @@
 ---
 title: Duralex
 date: 2022-01-20
-lastmod: 2022-02-04
 
 stub: true
 

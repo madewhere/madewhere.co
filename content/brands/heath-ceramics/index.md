@@ -2,7 +2,6 @@
 title: "Heath Ceramics"
 description:
 date: 2022-01-24T22:52:42-08:00
-lastmod: 2022-02-05
 
 stub: true
 

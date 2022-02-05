@@ -2,7 +2,6 @@
 title: "Chicago Metallic"
 description:
 date: 2022-01-28T22:40:03-08:00
-lastmod: 2022-02-05
 
 stub: true
 

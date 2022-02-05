@@ -1,7 +1,6 @@
 ---
 title: Shoes Like Pottery
 date: 2022-01-21
-lastmod: 2022-02-05
 
 stub: true
 

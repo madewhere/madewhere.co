@@ -2,7 +2,6 @@
 title: "Redwood Classics"
 description:
 date: 2022-01-24T22:45:50-08:00
-lastmod: 2022-02-05
 
 stub: true
 

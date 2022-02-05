@@ -2,7 +2,6 @@
 title: "Estwing"
 description:
 date: 2022-01-29T14:51:25-08:00
-lastmod: 2022-02-04
 
 stub: true
 

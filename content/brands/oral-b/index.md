@@ -2,7 +2,6 @@
 title: "Oral-B"
 description: Electric toothbrushes, made in Europe
 date: 2022-01-29T10:27:12-08:00
-lastmod: 2022-02-05
 
 stub: true
 

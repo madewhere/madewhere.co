@@ -2,7 +2,6 @@
 title: "John Boos"
 description: John Boos & Co., makers of the Boos Block
 date: 2022-01-23T20:39:38-08:00
-lastmod: 2022-02-04
 
 stub: true
 

@@ -2,7 +2,6 @@
 title: "Red Wing"
 description: Red Wing Shoes
 date: 2022-01-23T13:19:50-08:00
-lastmod: 2022-02-05
 
 stub: true
 

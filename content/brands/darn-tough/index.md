@@ -2,7 +2,6 @@
 title: "Darn Tough"
 description: Darn Tough Socks
 date: 2022-01-23T13:34:12-08:00
-lastmod: 2022-02-05
 
 stub: true
 

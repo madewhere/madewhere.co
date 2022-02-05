@@ -1,7 +1,6 @@
 ---
 title: All-Clad
 date: 2022-01-20
-lastmod: 2022-02-05
 
 stub: true
 
