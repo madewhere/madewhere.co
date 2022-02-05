@@ -1,6 +1,7 @@
 ---
 title: "Birkenstock"
 date: 2022-01-23T13:30:34-08:00
+lastmod: 2022-02-05
 
 stub: true
 
@@ -20,6 +21,4 @@ links:
 ---
 
 Birkenstock's well-known cork sole sandals—as well as many of their other
-shoes—are made in Germany. However, some styles such as their slippers are only
-partially German-made, and their products should be evaluated on a case-by-case
-basis.
+shoes—are made in Germany. Other products have varying origins.

@@ -2,7 +2,7 @@
 title: "Le Creuset"
 description: Cast Iron cookware and bakeware manufacturer
 date: 2022-01-28T21:00:57-08:00
-lastmod: 2022-02-04
+lastmod: 2022-02-05
 
 stub: true
 
@@ -29,5 +29,5 @@ links:
 Le Creuset is a famous cast iron bakeware manufacturer. Probably best known for
 their Dutch ovens, but they make a considerable variety of kitchen products.
 
-While many of their cast iron products are made in France, this does not extend
-to all of their product lines, which are made in a variety of countries.
+While many of their cast iron products are made in France, the rest of their
+product lines vary in origin.

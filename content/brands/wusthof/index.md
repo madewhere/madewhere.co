@@ -1,6 +1,7 @@
 ---
 title: Wüsthof
 date: 2022-01-21
+lastmod: 2022-02-05
 
 stub: true
 
@@ -18,6 +19,5 @@ links:
     text: Wüsthof
 ---
 
-Wüsthof offers a wide range of kitchen knives. Many are made in Germany—such as
-their "Classic" line—but they sell some lines to big box retailers which are
-not. Similarly they offer other kitchen utensils which are of unknown origin.
+Wüsthof offers a wide range of kitchen knives. Much of their core product line
+is made in Germany.
