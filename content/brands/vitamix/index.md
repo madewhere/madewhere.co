@@ -25,4 +25,4 @@ links:
 
 Vitamix manufacturers high performance commercial and home blenders out of their
 Ohio factory. Products which are made in the USA are clearly labeled on
-individual pages, however some products do not label their origin.
+individual pages.
