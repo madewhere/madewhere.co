@@ -43,6 +43,11 @@ appreciate the contributors that make it possible:
 
 This site is built with [GitHub Actions][], and hosted via [GitHub Pages][].
 
+We use [Font Awesome][] icons, from their freely available set. See their
+[license][fa-license].
+
 [oss]: https://en.wikipedia.org/wiki/Open-source_software
 [Github Actions]: https://github.com/features/actions
 [GitHub Pages]: https://pages.github.com/
+[Font Awesome]: https://fontawesome.com/
+[fa-license]: https://fontawesome.com/license/free
