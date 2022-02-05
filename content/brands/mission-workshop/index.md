@@ -2,7 +2,7 @@
 title: "Mission Workshop"
 description:
 date: 2022-01-25T21:02:25-08:00
-lastmod: 2022-02-04
+lastmod: 2022-02-05
 
 stub: true
 
@@ -25,5 +25,4 @@ links:
 
 Mission Workshop is a San Francisco-based maker of bags and technical clothing;
 they focused mostly on bike gear, but have since diversified into more technical
-wear. Much of their technical gear isn't made in the USA, so be sure to check
-on a product-by-product basis.
+wear.

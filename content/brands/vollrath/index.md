@@ -1,6 +1,7 @@
 ---
 title: Vollrath
 date: 2022-01-20
+lastmod: 2022-02-05
 
 stub: true
 
@@ -25,8 +26,7 @@ links:
 
 Vollrath is a cookware and bakeware company, focused on commercial kitchen. A
 substantial portion of their goods are made in the USA, including their "Jacob's
-Pride" line of clad cookware which is relatively inexpensive vs other clad
-lines.
+Pride" line of clad cookware.
 
 While Vollrath doesn't sell directly to consumers, their goods are carried by
 [WebstaurantStore] which lists a prominent "Made in USA" badge on relevant

@@ -2,6 +2,7 @@
 title: "Redwood Classics"
 description:
 date: 2022-01-24T22:45:50-08:00
+lastmod: 2022-02-05
 
 stub: true
 
@@ -20,5 +21,4 @@ links:
     text: "Redwood Classics"
 ---
 
-Casual wear manufacturer based in Canada. A cursory glance suggests they make
-all of their clothing in Canada.
+Casual wear manufacturer based in Canada.

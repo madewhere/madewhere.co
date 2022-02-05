@@ -2,7 +2,7 @@
 title: "Heath Ceramics"
 description:
 date: 2022-01-24T22:52:42-08:00
-lastmod: 2022-02-04
+lastmod: 2022-02-05
 
 stub: true
 
@@ -28,7 +28,7 @@ links:
 Heath Ceramics is primarily known for ceramic goods which they make in their
 California factory. They've recently started producing other products, like
 flatware. They also carry a significant number of other items which seem
-carefully selected, but haven't been fully evaluated.
+carefully selected, but haven't been comprehensively evaluated.
 
 See their [vendor] page for more information.
 

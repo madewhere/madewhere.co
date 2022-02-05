@@ -1,6 +1,7 @@
 ---
 title: Demeyere
 date: 2022-01-21
+lastmod: 2022-02-05
 
 stub: true
 
@@ -10,7 +11,8 @@ categories:
   - bakeware
 origins:
   - belgium
-  - unknown
+  - italy
+  - china
 tags:
   - mixed origin
 parent: zwilling
@@ -20,4 +22,7 @@ links:
     text: Demeyere
 ---
 
-Demeyere offers a wide range of made in belgium cookware.
+Demeyere offers a wide range of cookware, made in Belgium. Some of their
+specialty cookware, such as non-stick cookware, are made in Italy. A few
+accessories are made elsewhere. Their website lists the origin for each product
+on its product page.

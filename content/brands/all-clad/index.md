@@ -1,7 +1,7 @@
 ---
 title: All-Clad
 date: 2022-01-20
-lastmod: 2022-02-04
+lastmod: 2022-02-05
 
 stub: true
 
@@ -24,6 +24,6 @@ links:
 ---
 
 All-Clad is known for their clad cookware, but the also offer utensils and
-various kitchen goods. Unfortunately they have begun outsourcing some
-manufacturing to China—usually identifiable by significantly lower prices—but
-many of their products are still manufactured in the USA.
+various kitchen goods. Most of their core product line—pots, pans, and other
+cookware—is manufactured in the USA. Other products, such as utensils and
+appliances, have varying origins.

@@ -2,6 +2,7 @@
 title: "Chicago Metallic"
 description:
 date: 2022-01-28T22:40:03-08:00
+lastmod: 2022-02-05
 
 stub: true
 
@@ -24,8 +25,8 @@ links:
     text: "Chicago Metallic"
 ---
 
-Chicago Metallic is a bakeware company focused on commercial markets. They claim
-all products are made in the USA, with global materials.
+Chicago Metallic is a bakeware company focused on commercial markets. Their site
+asserts that all products are made in the USA, with global materials.
 
 While Chicago Metallic doesn't sell directly to consumers, they are carried by
 [WebstaurantStore].

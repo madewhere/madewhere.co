@@ -2,7 +2,7 @@
 title: "Channellock"
 description:
 date: 2022-01-29T14:43:30-08:00
-lastmod: 2022-02-04
+lastmod: 2022-02-05
 
 stub: true
 
@@ -27,6 +27,5 @@ links:
 Channellock is a tool manufacturer, probably best known for their
 channel-locking pliers. They offer a variety of gripping tools, made in the USA.
 
-Unfortunately not all of their products are USA-made, but those that are carry
-a prominent label. Those that are not do not denote their origin in an obvious
-manner.
+Products which are USA-made carry a prominent label. Other items may not specify
+their origins on product pages.
