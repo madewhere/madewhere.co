@@ -208,7 +208,7 @@ accessible title for any new icons added.
 [Ananke]: https://github.com/theNewDynamic/gohugo-theme-ananke
 [Tachyons]: https://tachyons.io/
 [Font Awesome]: https://fontawesome.com/
-[site-icons](./layouts/partials/site-icons.html)
+[site-icons]: ./layouts/partials/site-icons.html
 
 ## Build Process
 
