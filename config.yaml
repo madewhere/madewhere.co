@@ -27,6 +27,9 @@ related:
   toLower: true
 
 params:
+  mainSections:
+    - brands
+
   repository:
     text: github.com/madewhere/madewhere.co
     url: https://github.com/madewhere/madewhere.co
