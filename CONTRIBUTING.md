@@ -199,8 +199,16 @@ from Ananke into the `/layouts` directory, in the appropriate location (same as
 within the Ananke source) and then make your modifications as necessary. Note
 that Ananke is MIT licensed, as is the code for madewhere.
 
+We use [Font Awesome][] for icons, using those available in the free set, which
+is CC-BY-4.0 licensed. However we re-host them to ensure all site content comes
+from a single origin. We selectively include fonts as needed; see
+[`site-icons.html`][site-icons] for how they are included. Ensure to add an
+accessible title for any new icons added.
+
 [Ananke]: https://github.com/theNewDynamic/gohugo-theme-ananke
 [Tachyons]: https://tachyons.io/
+[Font Awesome]: https://fontawesome.com/
+[site-icons](./layouts/partials/site-icons.html)
 
 ## Build Process
 

@@ -45,3 +45,7 @@ params:
   codeOfConduct:
     text: Contributor Covenant Code of Conduct
     url: https://github.com/madewhere/madewhere.co/blob/main/CODE_OF_CONDUCT.md
+
+  fontAwesome:
+    text: Font Awesome
+    url: https://fontawesome.com/license/free
