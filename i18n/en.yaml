@@ -21,3 +21,9 @@ links:
 
 vendors:
   other: vendors
+
+"404":
+  other: "404: Not Found"
+
+page-not-found:
+  other: Sorry, the page you requested doesn't exist.
