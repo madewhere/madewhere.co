@@ -2,6 +2,7 @@
 title: "Heath Ceramics"
 description:
 date: 2022-01-24T22:52:42-08:00
+lastmod: 2022-02-04
 
 stub: true
 
@@ -17,6 +18,7 @@ origins:
   - unknown
 tags:
   - mixed-origin
+  - independent
 
 links:
   - url: https://www.heathceramics.com/

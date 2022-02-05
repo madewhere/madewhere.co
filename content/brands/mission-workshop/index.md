@@ -2,6 +2,7 @@
 title: "Mission Workshop"
 description:
 date: 2022-01-25T21:02:25-08:00
+lastmod: 2022-02-04
 
 stub: true
 
@@ -11,6 +12,8 @@ categories:
 origins:
   - usa
   - vietnam
+  - portugal
+  - canada
   - unknown
 tags:
   - mixed-origin

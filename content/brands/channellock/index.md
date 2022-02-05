@@ -9,7 +9,9 @@ categories:
   - tools
 origins:
   - usa
-  - unknown
+  - canada
+  - taiwan
+  - china
 tags:
   - independent
   - mixed-origin
