@@ -5,7 +5,7 @@ copyright: madewhere Contributors
 theme: ananke
 
 sectionPagesMenu: main
-paginate: 50
+paginate: 48
 enableRobotsTXT: true
 
 defaultContentLanguage: en
