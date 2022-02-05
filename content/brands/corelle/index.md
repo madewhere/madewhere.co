@@ -2,7 +2,6 @@
 title: "Corelle"
 description:
 date: 2022-01-23T17:05:40-08:00
-lastmod: 2022-02-05
 
 stub: true
 

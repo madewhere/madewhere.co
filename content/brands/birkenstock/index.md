@@ -1,7 +1,6 @@
 ---
 title: "Birkenstock"
 date: 2022-01-23T13:30:34-08:00
-lastmod: 2022-02-05
 
 stub: true
 

@@ -2,7 +2,6 @@
 title: "North St."
 description:
 date: 2022-01-25T21:09:28-08:00
-lastmod: 2022-02-05
 
 stub: true
 

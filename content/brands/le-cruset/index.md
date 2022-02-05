@@ -2,7 +2,6 @@
 title: "Le Creuset"
 description: Cast Iron cookware and bakeware manufacturer
 date: 2022-01-28T21:00:57-08:00
-lastmod: 2022-02-05
 
 stub: true
 
