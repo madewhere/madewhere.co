@@ -17,6 +17,11 @@
         {{ end }}
         for this site.
         <a class="white-70 hover-white" href="{{ref . "privacy"}}">Privacy</a>.
+        We use
+        {{ with .Site.Params.fontAwesome }}
+        <a class="white-70 hover-white" href="{{ .url }}" target="_blank">{{ .text }}</a>
+        {{ end }}
+        icons.
       </p>
     </div>
     <div class="f4 fw4 white-70 pv2 ph3">

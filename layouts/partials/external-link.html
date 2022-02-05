@@ -1,6 +1,9 @@
 {{ if .url }}
-<a rel="noreferrer" href="{{- .url -}}" target="_blank">
-  <span class="{{ .Scratch.Get "classes" }}">{{- .text | default .url -}}</span>
+<a rel="noreferrer" href="{{- .url -}}" target="_blank" class="no-underline flex items-center justify-left">
+  <span class="underline" class="{{ .Scratch.Get "classes" }}">{{- .text | default .url -}}</span>
+  <svg class="w1 h1 pl1">
+    <use href="#fa-external-link-alt"></use>
+  </svg>
 </a>
 {{ else }}
   {{ errorf "no url found in link" . }}
