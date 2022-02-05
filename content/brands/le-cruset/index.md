@@ -2,6 +2,7 @@
 title: "Le Creuset"
 description: Cast Iron cookware and bakeware manufacturer
 date: 2022-01-28T21:00:57-08:00
+lastmod: 2022-02-04
 
 stub: true
 
@@ -12,8 +13,10 @@ categories:
   - dinnerware
 origins:
   - france
+  - thailand
+  - england
   - china
-  - unknown
+  - portugal
 tags:
   - mixed-origin
   - independent

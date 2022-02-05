@@ -20,7 +20,7 @@ links:
 
 Émile Henry is a ceramics manufacturer in France, best known for their bakeware.
 
-In the United States, they are affiliated with [Duralex] although that
+In the United States, they are affiliated with [Duralex][] although that
 affiliation isn't clear: it may just be the US distributor is the same company.
 
 [Duralex]: {{< ref "duralex" >}}

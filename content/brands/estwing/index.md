@@ -2,6 +2,7 @@
 title: "Estwing"
 description:
 date: 2022-01-29T14:51:25-08:00
+lastmod: 2022-02-04
 
 stub: true
 
@@ -9,8 +10,10 @@ categories:
   - tools
 origins:
   - usa
+  - taiwan
 tags:
   - mixed-origin
+  - independent
 
 vendors:
 
@@ -21,4 +24,4 @@ links:
 
 Estwing is a tool manufacturer, specializing in hammers. A large number of their
 products are USA-made, with exceptions being their specialty fiberglass and
-plastic hammers.
+plastic hammers which are made in Taiwan.
