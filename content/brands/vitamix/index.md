@@ -4,7 +4,6 @@ description:
 date: 2022-02-05T14:13:19-08:00
 
 stub: true
-draft: true
 
 categories:
   - kitchen
