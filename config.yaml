@@ -31,6 +31,8 @@ params:
   mainSections:
     - brands
 
+  referrer: false
+
   repository:
     text: github.com/madewhere/madewhere.co
     url: https://github.com/madewhere/madewhere.co

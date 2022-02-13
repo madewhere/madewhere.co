@@ -1,0 +1,7 @@
+{{ $link := .Destination }}
+{{ $isRemote := strings.HasPrefix $link "http" }}
+{{- if $isRemote -}}
+{{- partial "external-link.html" (dict "url" .Destination "text" .Text "title" .Title) -}}
+{{- else -}}
+<a href="{{ $link | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

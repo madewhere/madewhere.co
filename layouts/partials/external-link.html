@@ -1,10 +1,19 @@
-{{ if .url }}
-<a rel="noreferrer" href="{{- .url -}}" target="_blank" class="no-underline flex items-center justify-left">
+{{- if .url -}}
+<a
+    {{ if not site.Params.referrer }}
+    rel="noreferrer"
+    {{ end }}
+    href="{{- .url -}}"
+    target="_blank"
+    class="no-underline inline-flex items-center justify-left"
+    {{ with .title }}
+    title="{{ . }}"
+    {{ end }}>
   <span class="underline" class="{{ .Scratch.Get "classes" }}">{{- .text | default .url -}}</span>
   <svg class="w1 h1 pl1">
     <use href="#fa-external-link-alt"></use>
   </svg>
 </a>
-{{ else }}
+{{- else }}
   {{ errorf "no url found in link" . }}
-{{ end }}
+{{- end -}}
