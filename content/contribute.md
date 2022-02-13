@@ -9,7 +9,7 @@ allowed to contribute, following the guidelines in this document.
 
 First of all, contributors must follow our [Code of Conduct][].
 
-[code of conduct]: {{< param "codeOfConduct.url" >}}
+[code of conduct]: {{% param "codeOfConduct.url" %}}
 
 Second, contributions to this site happen on [GitHub][]; if you don't have an
 account there, you'll want to create one. Github is a website where people
@@ -26,15 +26,15 @@ or we could even reject your contribution with reason. Please be patient and
 kind!
 
 Fourth, understand that any contributions you make will be licensed under
-Creative Commons licensing; you may view this license at [{{< param
-"contentLicense.text" >}}][license], but the short of it is: your content
+Creative Commons licensing; you may view this license at [{{% param
+"contentLicense.text" %}}][license], but the short of it is: your content
 is yours, but anyone may reproduce it so long as it is attributed to this site.
 
-[license]: {{< param "contentLicense.url" >}}
+[license]: {{% param "contentLicense.url" %}}
 
 This contribution guide is split into two sections; the first is for everyone.
 If you are comfortable with code and GitHub; you can [skip to the next
-section]({{<ref "#code">}}).
+section]({{< ref "#code" >}}).
 
 # Contribute by filing an Issue {#issue}
 
@@ -56,20 +56,20 @@ To file an issue, please click one of the following links:
 * [Update an existing brand or vendor][update-content]
 * [Update other site content not vendor or brand specific][meta-content]
 
-[issues]: {{< param "repository.url" >}}/issues
-[repository]: {{< param "repository.url" >}}
-[file an issue]: {{< param "repository.url" >}}/issues/new
+[issues]: {{% param "repository.url" %}}/issues
+[repository]: {{% param "repository.url" %}}
+[file an issue]: {{% param "repository.url" %}}/issues/new
 
-[add-content]: {{< param "repository.url" >}}/issues/new?title=%5BNEW%5D%20Add%20brand%20or%20vendor
-[update-content]: {{< param "repository.url" >}}/issues/new?title=%5BUPDATE%5D%20Update%20brand%20or%20vendor
-[meta-content]: {{< param "repository.url" >}}/issues/new?title=%5BMETA%5D%20Update%20site%20content
+[add-content]: {{% param "repository.url" %}}/issues/new?title=%5BNEW%5D%20Add%20brand%20or%20vendor
+[update-content]: {{% param "repository.url" %}}/issues/new?title=%5BUPDATE%5D%20Update%20brand%20or%20vendor
+[meta-content]: {{% param "repository.url" %}}/issues/new?title=%5BMETA%5D%20Update%20site%20content
 
 # Contributing via Pull Request {#code}
 
-{{< param title >}} is built with [Hugo][], and its [repository][] is on GitHub.
+madewhere is built with [Hugo][], and its [repository][] is on GitHub.
 Please see the [contribution guide][] there, which details getting your
 environment set up (it's kept intentionally simple), adding new content, our
 style guide, and hopefully everything else you need to get started!
 
 [hugo]: https://gohugo.io
-[contribution guide]: {{< param "contributing.url" >}}
+[contribution guide]: {{% param "contributing.url" %}}

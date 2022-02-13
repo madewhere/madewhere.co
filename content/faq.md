@@ -143,4 +143,4 @@ Guide], and you can fork what we've done to create your own. It's technical, but
 in the end it can be done for just the cost of a domain name, or less (and your
 time of course, which isn't cheap!). We'd love to see similar guides pop up.
 
-[contribution guide]: {{< param "contributing.url" >}}
+[contribution guide]: {{% param "contributing.url" %}}
