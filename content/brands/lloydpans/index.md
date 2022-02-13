@@ -6,7 +6,7 @@ date: 2022-02-11T22:55:02-08:00
 stub: true
 
 categories:
-  - kitchenware
+  - kitchen
   - bakeware
 origins:
   - usa
