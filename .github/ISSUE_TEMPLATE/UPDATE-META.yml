@@ -43,8 +43,9 @@ body:
       required: true
   - type: checkboxes
     id: license
-    description: Content on this site is [Creative Commons](https://creativecommons.org/licenses/by/4.0/) licensed; any content you provide will be licensed under those terms.
     attributes:
+      label: Licensing
+      description: Content on this site is [Creative Commons](https://creativecommons.org/licenses/by/4.0/) licensed; any content you provide will be licensed under those terms.
       options:
         - label: I agree to licensing this content under the Creative Commons Attribution 4.0 license
           required: true
