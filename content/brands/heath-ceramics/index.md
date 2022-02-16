@@ -11,6 +11,7 @@ categories:
   - furniture
   - bags
   - accessories
+  - housewares
 origins:
   - usa
   - england
