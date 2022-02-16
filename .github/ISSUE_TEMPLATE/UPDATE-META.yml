@@ -1,5 +1,5 @@
-name: Update Content
-description: Update a brand, vendor, or other core content.
+name: Update Meta
+description: Update site content not related to a brand or vendor.
 labels:
   - enhancement
 title: "[Update Meta]: "
