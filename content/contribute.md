@@ -60,9 +60,9 @@ To file an issue, please click one of the following links:
 [repository]: {{% param "repository.url" %}}
 [file an issue]: {{% param "repository.url" %}}/issues/new
 
-[add-content]: {{% param "repository.url" %}}/issues/new?title=%5BNEW%5D%20Add%20brand%20or%20vendor
-[update-content]: {{% param "repository.url" %}}/issues/new?title=%5BUPDATE%5D%20Update%20brand%20or%20vendor
-[meta-content]: {{% param "repository.url" %}}/issues/new?title=%5BMETA%5D%20Update%20site%20content
+[add-content]: {{% param "repository.url" %}}/issues/new?assignees=fardog&labels=enhancement&template=NEW-CONTENT.yml&title=%5BNew+Content%5D%3A+
+[update-content]: {{% param "repository.url" %}}/issues/new?assignees=fardog&labels=enhancement&template=UPDATE-CONTENT.yml&title=%5BUpdate+Content%5D%3A+
+[meta-content]: {{% param "repository.url" %}}/issues/new?assignees=fardog&labels=enhancement&template=UPDATE-META.yml&title=%5BUpdate+Meta%5D%3A+
 
 # Contributing via Pull Request {#code}
 
