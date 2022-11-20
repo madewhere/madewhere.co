@@ -9,7 +9,7 @@
     {{ with .title }}
     title="{{ . }}"
     {{ end }}>
-  <span class="underline" class="{{ .Scratch.Get "classes" }}">{{- .text | default .url -}}</span>
+  <span class="underline" class="{{ .Scratch.Get "classes" }}">{{- htmlUnescape .text | default .url -}}</span>
   <svg class="w1 h1 pl1">
     <use href="#fa-external-link-alt"></use>
   </svg>
