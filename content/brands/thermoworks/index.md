@@ -8,6 +8,7 @@ categories:
   - kitchen
 origins:
   - england
+  - uk
   - china
 tags:
   - mixed-origin

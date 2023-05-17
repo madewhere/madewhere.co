@@ -14,6 +14,7 @@ origins:
   - france
   - thailand
   - england
+  - uk
   - china
   - portugal
 tags:
